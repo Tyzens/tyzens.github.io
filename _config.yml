@@ -75,7 +75,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/images/favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "Web, Blog"
@@ -155,8 +155,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -382,7 +382,7 @@ han: false
 # Disqus
 disqus:
   enable: enable
-  shortname: https-tyzens-github-io.
+  shortname: https-tyzens-github-io
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
